@@ -1,0 +1,17 @@
+{
+  "name": "my-professional-portfolio",
+  "version": "1.0.0",
+  "description": "[Creative](http://startbootstrap.com/template-overviews/creative/) is a one page creative theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/).",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "deploy": "gh-pages -d my-professional-portfolio"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+  "homepage":"https://ahmedelagati.github.io/mywebsite",
+}
